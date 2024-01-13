@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@jnc.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@jnc.com.br"
+    },
+    {
+      "name": "Andre Gomes",
+      "email": "andreg@jnc.com.br",
+      "id": 3
+    }
+  ]
+}
